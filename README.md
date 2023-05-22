@@ -1,5 +1,5 @@
 # ADB-Firmware-extraction
-Pull firmware from android based devices. (Smart android TV, Android box, Android watch etc)
+Pull firmware from android based devices. (Smart android TV, Android box, Android watch etc) 
 adb connect <IP>
 adb shell
 su
