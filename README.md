@@ -6,6 +6,6 @@ su
 cat /proc/partitions
 cd /dev/block
 dd if=/dev/block/boot of=/sdcard/boot.img   // copy each partitons (recovery, system, bootloader, misc etc...)
-adb pull /sdcard/boot.img
+adb pull /sdcard/boot.img 
 
 
